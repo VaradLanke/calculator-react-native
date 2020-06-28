@@ -7,7 +7,7 @@ const buttonWidth = screen.width / 4;
 const style = StyleSheet.create({
   text: {
     color: "#fff",
-    fontSize: 25,
+    fontSize: 40,
   },
   textSecondary: {
     color: "#060606",
